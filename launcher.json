@@ -1,0 +1,13 @@
+{
+  "launcherInfo": {
+    "bannerUrl": "https://<username>.github.io/<repo>/assets/banner.webp"
+  },
+  "updates": [
+    {
+      "id": 1,
+      "title": "Feature Update",
+      "content": "Added support for new modding tools and exploits.",
+      "date": "2024-10-25"
+    }
+  ]
+}
