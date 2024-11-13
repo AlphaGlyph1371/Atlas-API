@@ -1,22 +1,22 @@
 {
   "launcherInfo": {
-    "bannerUrl": "https://raw.githubusercontent.com/AlphaGlyph1371/Atlas-API/refs/heads/main/banner.webp"
+    "bannerUrl": "https://images.mein-mmo.de/medien/2017/07/Fortnite-Ninja-Monster.jpg"
   },
   "updates": [
     {
-        "Title": "News Item 1",
-        "Date": "2024-11-10",
-        "Description": "Description of the first news item."
+        "Title": "Initial relese of Atlas",
+        "Date": "2024-11-13",
+        "Description": "In version 1.0.0 of Atlas, many functions are now available free of charge to anyone who has access to the program."
     },
     {
-        "Title": "News Item 2",
-        "Date": "2024-11-09",
-        "Description": "Description of the second news item."
+        "Title": "Updated to latest Fortnite",
+        "Date": "2024-11-13",
+        "Description": "Atlas is compatible with the latest Fortnite version. The current patch is ++Fortnite+Release-32.00-CL-37770125 (13.11.2024)"
     },
     {
-        "Title": "News Item 3",
-        "Date": "2024-11-08",
-        "Description": "Description of the third news item."
+        "Title": "Report bugs",
+        "Date": "2024-11-13",
+        "Description": "If you notice any problems or bugs, please report them to the Atlas developers."
     }
   ]
 }
