@@ -4,10 +4,19 @@
   },
   "updates": [
     {
-      "id": 1,
-      "title": "Feature Update",
-      "content": "Added support for new modding tools and exploits.",
-      "date": "2024-10-25"
+        "Title": "News Item 1",
+        "Date": "2024-11-10",
+        "Description": "Description of the first news item."
+    },
+    {
+        "Title": "News Item 2",
+        "Date": "2024-11-09",
+        "Description": "Description of the second news item."
+    },
+    {
+        "Title": "News Item 3",
+        "Date": "2024-11-08",
+        "Description": "Description of the third news item."
     }
   ]
 }
