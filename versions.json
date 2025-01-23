@@ -1,5 +1,212 @@
 [
   {
+    "++Fortnite+Release-24.20-CL-25156858": "5BHctenF6Pa18s1RHUCk5T1__ERIFg.manifest"
+  },
+  {
+    "++Fortnite+Release-24.20-CL-25019967": "1Bcu9mbzJvm-QvIrb0CL1r2rl1DQaQ.manifest"
+  },
+  {
+    "++Fortnite+Release-24.20-CL-24939793": "ois5wAXb8Ey7DnuQCE6Bov2JuNamNg.manifest"
+  },
+  {
+    "++Fortnite+Release-24.20-CL-25058254": "tmTvOoFm8OIjCeEGcEy5K-JduF6EvA.manifest"
+  },
+  {
+    "++Fortnite+Release-24.30-CL-25347382": "7rRQaEpSegmh97PgEUuJLFvvxnYHEg.manifest"
+  },
+  {
+    "++Fortnite+Release-24.30-CL-25210886": "k0qQ8OW4iRnz9BsuvkGe-kDeD304jA.manifest"
+  },
+  {
+    "++Fortnite+Release-24.40-CL-25521145": "Wi3PzpC9YlzGQAyqJE2XDzUJP-aBIg.manifest"
+  },
+  {
+    "++Fortnite+Release-24.40-CL-25595478": "fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw.manifest"
+  },
+  {
+    "++Fortnite+Release-25.00-CL-25909622": "aR-p-XE-qiz2uidz3k636UNRwJ-eyg.manifest"
+  },
+  {
+    "++Fortnite+Release-25.00-CL-25784668": "g5VjWQg55a48ElUgNEiXpXYA_7xDxA.manifest"
+  },
+  {
+    "++Fortnite+Release-25.10-CL-26000959": "gY2susW1j64QkJwtl0eXncvfNFiojA.manifest"
+  },
+  {
+    "++Fortnite+Release-25.11-CL-26171015": "2k_ALw2g9R84eHono0moitIwSjUPxQ.manifest"
+  },
+  {
+    "++Fortnite+Release-25.20-CL-26474516": "lfSfO7-b0Jz3-kYWwk-LAHXvXIKPdw.manifest"
+  },
+  {
+    "++Fortnite+Release-25.20-CL-26629111": "L3MuneAYL7-WM5YBFk6OtxGSl5DeHw.manifest"
+  },
+  {
+    "++Fortnite+Release-25.30-CL-26867995": "xEYdLync_S_cqC_wI0W3MelBYX1nvg.manifest"
+  },
+  {
+    "++Fortnite+Release-26.00-CL-27233190": "k3pvBY__gYAhQAV2pUS0NYGb2dcbxg.manifest"
+  },
+  {
+    "++Fortnite+Release-26.00-CL-27424790": "GFp_xYd0U-HIJv1ZwECaLu9sK-XoXw.manifest"
+  },
+  {
+    "++Fortnite+Release-26.10-CL-27681420": "2-eszY6Q0kkzQ6upTEaaQ3-fv_cndQ.manifest"
+  },
+  {
+    "++Fortnite+Release-26.20-CL-28096793": "R8h3jNWRzHO8Ap3SVkOo3glgYBVl5g.manifest"
+  },
+  {
+    "++Fortnite+Release-26.30-CL-28509302": "549PGQv1etyjcGojW0W4sZO5D_DotA.manifest"
+  },
+  {
+    "++Fortnite+Release-26.30-CL-28688692": "AJ02zs2tnKO9TnyH2E2eh8i26kE57w.manifest"
+  },
+  {
+    "++Fortnite+Release-27.00-CL-29072304": "9D35cLnDuvbycWfihUeiuR6MP7PcRA.manifest"
+  },
+  {
+    "++Fortnite+Release-27.10-CL-29552510": "jCqdkjlhCqXO8734Zkmpi8Lp4vUHeA.manifest"
+  },
+  {
     "++Fortnite+Release-27.11-CL-29739262": "AtunKhtPq4NHVe1fwkynsUmQJyFEtw.manifest"
+  },
+  {
+    "++Fortnite+Release-28.00-CL-29915848": "CuLv_l0LuQM0W19qRkWTfZDUk0GmpQ.manifest"
+  },
+  {
+    "++Fortnite+Release-28.01-CL-30106568": "KojsOReYLS2yfFapo0Wbw8JxValkeg.manifest"
+  },
+  {
+    "++Fortnite+Release-28.01-CL-30313795": "KX7lrNGin34am7bx90y3kk9Md8zqmQ.manifest"
+  },
+  {
+    "++Fortnite+Release-28.10-CL-30676362": "dstRnNfDLg6v3O2v50aMEhXWCmLrIw.manifest"
+  },
+  {
+    "++Fortnite+Release-28.10-CL-30835064": "BZTHP5KZJu3WFe0kn0-EPFR-0UpAWQ.manifest"
+  },
+  {
+    "++Fortnite+Release-28.20-CL-31165234": "CkqsVGTIb7MM3AMM0U-cj6LduzruLw.manifest"
+  },
+  {
+    "++Fortnite+Release-28.20-CL-31286935": "9eBVw8XMOirjbVeHl0me_LXIgQNUPg.manifest"
+  },
+  {
+    "++Fortnite+Release-28.30-CL-31511038": "6rnGKJUE4ZR1wE8YbEipgborM43rVQ.manifest"
+  },
+  {
+    "++Fortnite+Release-29.00-CL-31978752": "QccYpugPQyAKo9cNEEKmwddeRykmKg.manifest"
+  },
+  {
+    "++Fortnite+Release-29.00-CL-32116959": "jg1ax3PInT0RDnMG70KPcqcxGVeIDw.manifest"
+  },
+  {
+    "++Fortnite+Release-29.01-CL-32291970": "UmdrBvDv4qhFaiK6CEuBNVvv7W4ZGA.manifest"
+  },
+  {
+    "++Fortnite+Release-29.10-CL-32391220": "0qBIx9ct34a0cmOgj0KK26Cjq--bFg.manifest"
+  },
+  {
+    "++Fortnite+Release-29.10-CL-32567225": "jDihDvwDD4VfI5Ss7Uy-BNIY91lqSw.manifest"
+  },
+  {
+    "++Fortnite+Release-29.20-CL-32716692": "M2bOANvpvdO3YHqTVE27hPcxCYVW0w.manifest"
+  },
+  {
+    "++Fortnite+Release-29.30-CL-32982357": "mfxryGF3iGOnOCOusEivzCKvqFF-Cg.manifest"
+  },
+  {
+    "++Fortnite+Release-29.40-CL-33629566": "w0RPuFOxVVMSrBvizUa4g8PCYiRedw.manifest"
+  },
+  {
+    "++Fortnite+Release-29.40-CL-33291686": "cMQbzoEznwVOR1BTjUe8Dy6mHfud-w.manifest"
+  },
+  {
+    "++Fortnite+Release-29.40-CL-33502036": "6Paq4Hh0JRRG-B84H0Sedout7g-_fg.manifest"
+  },
+  {
+    "++Fortnite+Release-30.00-CL-33760522": "28HcEgy7v5S-xhFEBU65IQzhQcfymQ.manifest"
+  },
+  {
+    "++Fortnite+Release-30.00-CL-33962396": "iwzw_8_aWi0Yz0JAuE6lyBUjghnQog.manifest"
+  },
+  {
+    "++Fortnite+Release-30.10-CL-34184790": "skWmYgNRtHhSZjbC_k22jp_kxKowiA.manifest"
+  },
+  {
+    "++Fortnite+Release-30.10-CL-34261954": "Sii8rUL5871OSkC49k6vI17J57XuUQ.manifest"
+  },
+  {
+    "++Fortnite+Release-30.10-CL-34399867": "8mTO_w4sy5ubMXTizEKFD2W6Q5glQw.manifest"
+  },
+  {
+    "++Fortnite+Release-30.20-CL-34488544": "RAUGZJi-86HkdkJwEkGN6Ip-sqB2hw.manifest"
+  },
+  {
+    "++Fortnite+Release-30.20-CL-34597766": "NYAK4exKX_9ELcGZ80eGnZOqTzLOXQ.manifest"
+  },
+  {
+    "++Fortnite+Release-30.30-CL-34891016": "i3mQ3LSo6mx1PVWv_0WHolGzWqGpzg.manifest"
+  },
+  {
+    "++Fortnite+Release-30.40-CL-35235494": "NoNCgQG-9iiXBwGjo0SmGmXR962VXw.manifest"
+  },
+  {
+    "++Fortnite+Release-31.00-CL-35447195": "889Cfv4W7UAZ6Jn0dUyIuV0kX7gTog.manifest"
+  },
+  {
+    "++Fortnite+Release-31.10-CL-35815136": "cWXSYCW8eiejPWW1ikmgsQvdejvQQQ.manifest"
+  },
+  {
+    "++Fortnite+Release-31.20-CL-36253989": "9yMDZqRnEQwqlv0yc0iwpol993FZgg.manifest"
+  },
+  {
+    "++Fortnite+Release-31.20-CL-36348034": "KDYJCVCYTVm2_bmT8ESUu_SN3_ebVQ.manifest"
+  },
+  {
+    "++Fortnite+Release-31.30-CL-36600465": "HVsdllo0kZgOL42_akCGWHMtrZkQ9g.manifest"
+  },
+  {
+    "++Fortnite+Release-31.40-CL-36874825": "4re6ocqjn9AjcRjtC0Sz9SYYmq0I_Q.manifest"
+  },
+  {
+    "++Fortnite+Release-31.40-CL-37076506": "X5Tmj2VhA3sjmqNTGEeqU8xXpEewPw.manifest"
+  },
+  {
+    "++Fortnite+Release-31.41-CL-37324991": "RX_gx2NL3dBivM5eVEKq7KdXIq5J7Q.manifest"
+  },
+  {
+    "++Fortnite+Release-32.00-CL-37505882": "AkxvM9XUrVeXNxMtCE22_lRJZukVOA.manifest"
+  },
+  {
+    "++Fortnite+Release-32.00-CL-37770125": "dj4O0tv4PZ1sALg4S0mp8cpVGElQ3w.manifest"
+  },
+  {
+    "++Fortnite+Release-32.10-CL-37958378": "3wX3pAHwSaZ8L0-VGEyxjOkXwfIihg.manifest"
+  },
+  {
+    "++Fortnite+Release-32.11-CL-38202817": "Kauyq4jGHB-SuyDjakmArJ1VU6QYJw.manifest"
+  },
+  {
+    "++Fortnite+Release-32.11-CL-38371047": "arMeOEixqYVgETkDekyCUL2mPefweA.manifest"
+  },
+  {
+    "++Fortnite+Release-33.00-CL-38324112": "7coGxGVi9_zAIFE_Ckeq0NvU4Wyktw.manifest"
+  },
+  {
+    "++Fortnite+Release-33.00-CL-38504598": "6roe6VSg-cOeH9c2NUe5bKkAWsIjhg.manifest"
+  },
+  {
+    "++Fortnite+Release-33.10-CL-38630093": "oGxbxlPxbThz8n3IpUCmVRu8dxw1zQ.manifest"
+  },
+  {
+    "++Fortnite+Release-33.11-CL-38773622": "ffxgQGm-7r1B87BTbUmgZw7IMCSnIw.manifest"
+  },
+  {
+    "++Fortnite+Release-33.20-CL-39082670": "a_zQLEFyj3g3HQHZ5kWOeY2HEhLvsA.manifest"
+  },
+  {
+    "++Fortnite+Release-33.20-CL-39277041": "AjgRht6iZypj1uxdxki9POYMGGpNDw.manifest"
   }
 ]
